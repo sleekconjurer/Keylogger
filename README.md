@@ -1,2 +1,2 @@
-# cryptography
-keylogger project
+# Silent Observer: Python Keylogger
+
